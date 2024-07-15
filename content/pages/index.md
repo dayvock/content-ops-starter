@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: OUR CAPABILITIES
       color: text-primary
       styles:
         self:
