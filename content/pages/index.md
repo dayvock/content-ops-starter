@@ -7,7 +7,7 @@ sections:
       text: Corporate Venture Builder.
       color: text-primary
       type: TitleBlock
-    subtitle: Potenciamos tu crecimiento y la escalabilidad de tu idea.
+    subtitle: Driving Innovation and Growth
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
