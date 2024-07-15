@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/IMG_0528.JPG
+      url: /images/Office DV.JPG
       altText: Logistics
       elementId: ''
       type: ImageBlock
