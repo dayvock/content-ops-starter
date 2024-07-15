@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We simplify your logistics processes through blockchain.
+      text: Estas listo para acelerar tus negocios 10 X mas rapido!!!
       color: text-primary
       type: TitleBlock
     subtitle: 'One platform, one community.'
