@@ -65,7 +65,7 @@ sections:
         subtitle: 'Strategy and Innovation:'
         text: >
           Identify new growth opportunities and develop innovative business
-          models.
+          financial models.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
