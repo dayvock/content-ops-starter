@@ -7,7 +7,7 @@ sections:
       text: We simplify your logistics processes through blockchain.
       color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'One platform, one community.'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
