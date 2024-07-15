@@ -114,10 +114,9 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: 'Growth & Scaling Models:'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Implement effective growth marketing strategies and enable rapid
+          expansion of corporate ventures.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
