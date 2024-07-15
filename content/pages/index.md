@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Estas listo para acelerar tus negocios 10 X mas rapido!!!
+      text: 'Corporate Venture Building: Driving Innovation and Growth'
       color: text-primary
       type: TitleBlock
     subtitle: Potenciamos tu crecimiento y la escalabilidad de tu idea.
