@@ -4,7 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Corporate Venture Building: Driving Innovation and Growth'
+      text: >-
+        Corporate Venture Building: Driving Innovation and GrowthEstas listo
+        para acelerar tus negocios 10 X mas rapido!!!We simplify your logistics
+        processes through blockchain.
       color: text-primary
       type: TitleBlock
     subtitle: Potenciamos tu crecimiento y la escalabilidad de tu idea.
