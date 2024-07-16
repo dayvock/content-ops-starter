@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: We Bring Ideas To Life
       color: text-dark
       styles:
         self:
