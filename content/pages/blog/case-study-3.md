@@ -1,5 +1,5 @@
 ---
-title: Growth Consulting
+title: Growth Advisory
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
