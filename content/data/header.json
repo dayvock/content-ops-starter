@@ -55,7 +55,7 @@
         {
             "label": "Services",
             "altText": "Services page",
-            "url": "/careers",
+            "url": "/services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
