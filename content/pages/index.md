@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Corporate Venture Builder.
+      text: Corporate Venture Builder
       color: text-primary
       type: TitleBlock
     subtitle: Driving Innovation and Growth
