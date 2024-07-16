@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We Bring Ideas To Life
+    subtitle: Key Capabilities & Expertise
     items:
       - type: FeaturedItem
         title: 500k
